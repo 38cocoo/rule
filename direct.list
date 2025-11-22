@@ -2,5 +2,11 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,baidu.com
-
-
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,rainshine28.site
+DOMAIN-SUFFIX,foglayer61.wiki
+DOMAIN-SUFFIX,thunderwave26.site
+DOMAIN-SUFFIX,windshimmer19.site
+SRC-IP-CIDR,192.168.5.143/32
+SRC-IP-CIDR,192.168.5.117/32
