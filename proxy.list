@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,new.c.mi.com
 DOMAIN-KEYWORD,1e100
 
 # 国外DNS
-SRC-IP-CIDR,192.168.5.120/32,♻️ 美国自动
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
