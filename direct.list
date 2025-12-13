@@ -1,12 +1,16 @@
 # 直连补充列表
 
 # 域名后缀匹配
-#DOMAIN-SUFFIX,baidu.com
-#DOMAIN-SUFFIX,qq.com
-#DOMAIN-SUFFIX,taobao.com
+# DOMAIN-SUFFIX,baidu.com
+# DOMAIN-SUFFIX,qq.com
+# DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,aimtothebest.com
+DOMAIN-SUFFIX,freewings.boo
+DOMAIN-SUFFIX,boopigcdn.com
+DOMAIN-SUFFIX,stormchill53.pro
 DOMAIN-SUFFIX,rainshine28.site
 DOMAIN-SUFFIX,foglayer61.wiki
 DOMAIN-SUFFIX,thunderwave26.site
 DOMAIN-SUFFIX,windshimmer19.site
-#SRC-IP-CIDR,192.168.5.110/32
-#SRC-IP-CIDR,192.168.5.117/32
+# SRC-IP-CIDR,192.168.5.110/32
+# SRC-IP-CIDR,192.168.5.117/32
