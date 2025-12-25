@@ -12,5 +12,6 @@ DOMAIN-SUFFIX,boopigcdn.com
 # DOMAIN-SUFFIX,foglayer61.wiki
 # DOMAIN-SUFFIX,thunderwave26.site
 # DOMAIN-SUFFIX,windshimmer19.site
+# DOMAIN-SUFFIX,eu3.raffaellocdn.net
 SRC-IP-CIDR,192.168.5.110/32
 SRC-IP-CIDR,192.168.5.117/32
