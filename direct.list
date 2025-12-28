@@ -7,11 +7,11 @@
 #  DOMAIN-SUFFIX,aimtothebest.com
 #  DOMAIN-SUFFIX,freewings.boo
 #  DOMAIN-SUFFIX,boopigcdn.com
-DOMAIN-SUFFIX,stormchill53.pro
-DOMAIN-SUFFIX,rainshine28.site
-DOMAIN-SUFFIX,foglayer61.wiki
-DOMAIN-SUFFIX,thunderwave26.site
-DOMAIN-SUFFIX,windshimmer19.site
+#  DOMAIN-SUFFIX,stormchill53.pro
+#  DOMAIN-SUFFIX,rainshine28.site
+#  DOMAIN-SUFFIX,foglayer61.wiki
+#  DOMAIN-SUFFIX,thunderwave26.site
+#  DOMAIN-SUFFIX,windshimmer19.site
 DOMAIN-SUFFIX,raffaellocdn.net
 SRC-IP-CIDR,192.168.5.110/32
 SRC-IP-CIDR,192.168.5.117/32
