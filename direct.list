@@ -4,15 +4,21 @@
 #  DOMAIN-SUFFIX,baidu.com
 #  DOMAIN-SUFFIX,qq.com
 #  DOMAIN-SUFFIX,taobao.com
-#  DOMAIN-SUFFIX,aimtothebest.com
-#  DOMAIN-SUFFIX,freewings.boo
-#  DOMAIN-SUFFIX,boopigcdn.com
+
+# 直连补充列表
+DOMAIN-SUFFIX,aimtothebest.com
+DOMAIN-SUFFIX,freewings.boo
+DOMAIN-SUFFIX,boopigcdn.com
+DOMAIN-SUFFIX,frostglimmer59.xyz
+DOMAIN-SUFFIX,snowfallburst44.xyz
+
 DOMAIN-SUFFIX,stormchill53.pro
 DOMAIN-SUFFIX,rainshine28.site
 DOMAIN-SUFFIX,foglayer61.wiki
 DOMAIN-SUFFIX,thunderwave26.site
 DOMAIN-SUFFIX,windshimmer19.site
 DOMAIN-SUFFIX,raffaellocdn.net
+
 #  SRC-IP-CIDR,192.168.5.110/32
 #  SRC-IP-CIDR,192.168.5.117/32
 # SRC-IP-CIDR,45.87.223.22/32
