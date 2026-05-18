@@ -6,20 +6,7 @@
 #  DOMAIN-SUFFIX,taobao.com
 #
 # 直连补充列表
-DOMAIN-SUFFIX,frostglimmer59.xyz
-DOMAIN-SUFFIX,aimtothebest.com
-DOMAIN-SUFFIX,p.freewings.boo
-DOMAIN-SUFFIX,cc.boopigcdn.com
-DOMAIN-SUFFIX,img.boopigcdn.com
-DOMAIN-SUFFIX,preview.boopigcdn.com
-DOMAIN-SUFFIX,snowfallburst44.xyz
-DOMAIN-SUFFIX,dewshine30.xyz
-DOMAIN-SUFFIX,stormchill53.pro
-DOMAIN-SUFFIX,rainshine28.site
-DOMAIN-SUFFIX,foglayer61.wiki
-DOMAIN-SUFFIX,thunderwave26.site
-DOMAIN-SUFFIX,windshimmer19.site
-DOMAIN-SUFFIX,raffaellocdn.net
+
 #
 #  SRC-IP-CIDR,192.168.5.110/32
 #  SRC-IP-CIDR,192.168.5.117/32
