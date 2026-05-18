@@ -1,9 +1,9 @@
 # 直连补充列表
 
 # 域名后缀匹配
-#  DOMAIN-SUFFIX,baidu.com
-#  DOMAIN-SUFFIX,qq.com
-#  DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,taobao.com
 #
 # 直连补充列表
 
