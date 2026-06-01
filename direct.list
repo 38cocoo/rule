@@ -6,7 +6,10 @@ DOMAIN-SUFFIX,tagxx.vip
 DOMAIN-SUFFIX,tagweb.vip
 DOMAIN-SUFFIX,tagss13.pro
 # 直连补充列表
-
+DOMAIN-SUFFIX,siamparagon.org
+DOMAIN-SUFFIX,nobodys.uk
+DOMAIN-SUFFIX,mysiteress.com
+DOMAIN-SUFFIX,temporary-subscription.work
 #
 #  SRC-IP-CIDR,192.168.5.110/32
 #  SRC-IP-CIDR,192.168.5.117/32
