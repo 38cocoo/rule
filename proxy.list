@@ -5,6 +5,21 @@ DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,tagss.pro
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,vixsrc
+DOMAIN-KEYWORD,vix-content
+DOMAIN-KEYWORD,videasy
+DOMAIN-KEYWORD,segment
+DOMAIN-KEYWORD,enc-dec
+DOMAIN-KEYWORD,primesrc
+DOMAIN-KEYWORD,opensubtitles
+DOMAIN-KEYWORD,alchemmauls
+DOMAIN-KEYWORD,vidsrc
+DOMAIN-KEYWORD,vidflix
+DOMAIN-KEYWORD,vidlink
+DOMAIN-KEYWORD,vidrock
+DOMAIN-KEYWORD,vidsrc-embed
+DOMAIN-KEYWORD,vsembed
+DOMAIN-KEYWORD,2embed
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
@@ -27,21 +42,8 @@ IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 
 #串流视频
-DOMAIN-KEYWORD,vixsrc
-DOMAIN-KEYWORD,vix-content
-DOMAIN-KEYWORD,videasy
-DOMAIN-KEYWORD,segment
-DOMAIN-KEYWORD,enc-dec
-DOMAIN-KEYWORD,primesrc
-DOMAIN-KEYWORD,opensubtitles
-DOMAIN-KEYWORD,alchemmauls
-DOMAIN-KEYWORD,vidsrc
-DOMAIN-KEYWORD,vidflix
-DOMAIN-KEYWORD,vidlink
-DOMAIN-KEYWORD,vidrock
-DOMAIN-KEYWORD,vidsrc-embed
-DOMAIN-KEYWORD,vsembed
-DOMAIN-KEYWORD,2embed
+
+DOMAIN-SUFFIX,opensubtitles.org
 DOMAIN-SUFFIX,ironwallnet.com
 DOMAIN-SUFFIX,frostglimmer59.xyz
 DOMAIN-SUFFIX,aimtothebest.com
