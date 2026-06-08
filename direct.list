@@ -5,7 +5,10 @@ DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,tagxx.vip
 DOMAIN-SUFFIX,tagweb.vip
 DOMAIN-SUFFIX,tagss13.pro
+DOMAIN-SUFFIX,opensubtitles.org
+
 # 直连补充列表
+
 DOMAIN-SUFFIX,siamparagon.org
 DOMAIN-SUFFIX,nobodys.uk
 DOMAIN-SUFFIX,mysiteress.com
