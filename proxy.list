@@ -1,64 +1,46 @@
+payload:
 # 代理补充列表
 DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # 域名后缀匹配
-DOMAIN-SUFFIX,qichiyu.com
-DOMAIN-SUFFIX,tagss.pro
+  - DOMAIN-SUFFIX,qichiyu.com
+  - DOMAIN-SUFFIX,tagss.pro
 # 域名关键字匹配
-DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,vixsrc
-DOMAIN-KEYWORD,vix-content
-DOMAIN-KEYWORD,videasy
-DOMAIN-KEYWORD,segment
-DOMAIN-KEYWORD,enc-dec
-DOMAIN-KEYWORD,primesrc
-DOMAIN-KEYWORD,opensubtitles
-DOMAIN-KEYWORD,alchemmauls
-DOMAIN-KEYWORD,vidsrc
-DOMAIN-KEYWORD,vidflix
-DOMAIN-KEYWORD,vidlink
-DOMAIN-KEYWORD,vidrock
-DOMAIN-KEYWORD,vidsrc-embed
-DOMAIN-KEYWORD,vsembed
-DOMAIN-KEYWORD,2embed
+  - DOMAIN-KEYWORD,1e100
+  - DOMAIN-KEYWORD,vixsrc
+  - DOMAIN-KEYWORD,vix-content
+  - DOMAIN-KEYWORD,videasy
+  - DOMAIN-KEYWORD,segment
+  - DOMAIN-KEYWORD,enc-dec
+  - DOMAIN-KEYWORD,primesrc
+  - DOMAIN-KEYWORD,opensubtitles
+  - DOMAIN-KEYWORD,alchemmauls
+  - DOMAIN-KEYWORD,vidsrc
+  - DOMAIN-KEYWORD,vidflix
+  - DOMAIN-KEYWORD,vidlink
+  - DOMAIN-KEYWORD,vidrock
+  - DOMAIN-KEYWORD,vidsrc-embed
+  - DOMAIN-KEYWORD,vsembed
+  - DOMAIN-KEYWORD,2embed
 
-# 国外DNS
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
-DOMAIN-SUFFIX,dot.sb
-DOMAIN-SUFFIX,dns.umbrella.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,dns.google
-DOMAIN-SUFFIX,cloudflare-dns.com
-DOMAIN-SUFFIX,doh.dns.sb
-DOMAIN-SUFFIX,doh.opendns.com
-DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,hk-hkg.doh.sb
-IP-CIDR,8.8.8.8/32,no-resolve
-IP-CIDR,8.8.4.4/32,no-resolve
-IP-CIDR,1.1.1.1/32,no-resolve
-IP-CIDR,1.0.0.1/32,no-resolve
-IP-CIDR,185.222.222.222/32,no-resolve
-IP-CIDR,208.67.222.222/32,no-resolve
-IP-CIDR,208.67.220.220/32,no-resolve
 
 #串流视频
 
-DOMAIN-SUFFIX,opensubtitles.org
-DOMAIN-SUFFIX,ironwallnet.com
-DOMAIN-SUFFIX,frostglimmer59.xyz
-DOMAIN-SUFFIX,aimtothebest.com
-DOMAIN-SUFFIX,p.freewings.boo
-DOMAIN-SUFFIX,cc.boopigcdn.com
-DOMAIN-SUFFIX,img.boopigcdn.com
-DOMAIN-SUFFIX,preview.boopigcdn.com
-DOMAIN-SUFFIX,snowfallburst44.xyz
-DOMAIN-SUFFIX,dewshine30.xyz
-DOMAIN-SUFFIX,stormchill53.pro
-DOMAIN-SUFFIX,rainshine28.site
-DOMAIN-SUFFIX,foglayer61.wiki
-DOMAIN-SUFFIX,thunderwave26.site
-DOMAIN-SUFFIX,windshimmer19.site
-DOMAIN-SUFFIX,raffaellocdn.net
+  - DOMAIN-SUFFIX,opensubtitles.org
+  - DOMAIN-SUFFIX,ironwallnet.com
+  - DOMAIN-SUFFIX,frostglimmer59.xyz
+  - DOMAIN-SUFFIX,aimtothebest.com
+  - DOMAIN-SUFFIX,p.freewings.boo
+  - DOMAIN-SUFFIX,cc.boopigcdn.com
+  - DOMAIN-SUFFIX,img.boopigcdn.com
+  - DOMAIN-SUFFIX,preview.boopigcdn.com
+  - DOMAIN-SUFFIX,snowfallburst44.xyz
+  - DOMAIN-SUFFIX,dewshine30.xyz
+  - DOMAIN-SUFFIX,stormchill53.pro
+  - DOMAIN-SUFFIX,rainshine28.site
+  - DOMAIN-SUFFIX,foglayer61.wiki
+  - DOMAIN-SUFFIX,thunderwave26.site
+  - DOMAIN-SUFFIX,windshimmer19.site
+  - DOMAIN-SUFFIX,raffaellocdn.net
 DOMAIN-KEYWORD,inoreader
 DOMAIN-KEYWORD,z-library
 DOMAIN-SUFFIX,boopigcdn.com,
