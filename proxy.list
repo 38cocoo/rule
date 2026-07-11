@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
   - DOMAIN-SUFFIX,thunderwave26.site
   - DOMAIN-SUFFIX,windshimmer19.site
   - DOMAIN-SUFFIX,raffaellocdn.net
-DOMAIN-KEYWORD,inoreader
+  - DOMAIN-KEYWORD,inoreader
 DOMAIN-KEYWORD,z-library
 DOMAIN-SUFFIX,boopigcdn.com,
 DOMAIN-SUFFIX,freewings.boo
