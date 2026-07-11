@@ -42,26 +42,26 @@ DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
   - DOMAIN-SUFFIX,windshimmer19.site
   - DOMAIN-SUFFIX,raffaellocdn.net
   - DOMAIN-KEYWORD,inoreader
-DOMAIN-KEYWORD,z-library
-DOMAIN-SUFFIX,boopigcdn.com,
-DOMAIN-SUFFIX,freewings.boo
-DOMAIN-SUFFIX,windshimmer19.site
-DOMAIN-SUFFIX,snowfallburst44.xyz
-DOMAIN-SUFFIX,evodevicemanager.com
-DOMAIN-SUFFIX,raffaellocdn.net
-DOMAIN-SUFFIX,aimtothebest.com
-DOMAIN-SUFFIX,foglayer61.wiki
-DOMAIN-SUFFIX,stormchill53.pro
-DOMAIN-SUFFIX,vidplus.dev
-DOMAIN-SUFFIX,tmdb.org
-DOMAIN-SUFFIX,themoviedb.org
-DOMAIN-SUFFIX,vidrock.net
-DOMAIN-SUFFIX,vix-content.net
-DOMAIN-SUFFIX,primesrc.me
-DOMAIN-SUFFIX,opensubtitles.org
-DOMAIN-SUFFIX,vixsrc.to
-DOMAIN-SUFFIX,skywayplatform.com
-DOMAIN-SUFFIX,vixcloud.co
-DOMAIN-SUFFIX,streamingunity.biz
-DOMAIN-SUFFIX,cdn.streamingunity.autos
-DOMAIN-SUFFIX,ridomovies.tv
+  - DOMAIN-KEYWORD,z-library
+  - DOMAIN-SUFFIX,boopigcdn.com,
+  - DOMAIN-SUFFIX,freewings.boo
+  - DOMAIN-SUFFIX,windshimmer19.site
+  - DOMAIN-SUFFIX,snowfallburst44.xyz
+  - DOMAIN-SUFFIX,evodevicemanager.com
+  - DOMAIN-SUFFIX,raffaellocdn.net
+  - DOMAIN-SUFFIX,aimtothebest.com
+  - DOMAIN-SUFFIX,foglayer61.wiki
+  - DOMAIN-SUFFIX,stormchill53.pro
+  - DOMAIN-SUFFIX,vidplus.dev
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,vidrock.net
+  - DOMAIN-SUFFIX,vix-content.net
+  - DOMAIN-SUFFIX,primesrc.me
+  - DOMAIN-SUFFIX,opensubtitles.org
+  - DOMAIN-SUFFIX,vixsrc.to
+  - DOMAIN-SUFFIX,skywayplatform.com
+  - DOMAIN-SUFFIX,vixcloud.co
+  - DOMAIN-SUFFIX,streamingunity.biz
+  - DOMAIN-SUFFIX,cdn.streamingunity.autos
+  - DOMAIN-SUFFIX,ridomovies.tv
