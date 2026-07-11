@@ -1,6 +1,6 @@
 payload:
 # 代理补充列表
-DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
+  - DOMAIN-SUFFIX,sysupgrade.kyarucloud.moe
 # 域名后缀匹配
   - DOMAIN-SUFFIX,qichiyu.com
   - DOMAIN-SUFFIX,tagss.pro
