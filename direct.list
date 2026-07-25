@@ -8,7 +8,7 @@ payload:
   - DOMAIN-SUFFIX,opensubtitles.org
 
  # 直连补充列表
-
+  - DOMAIN-SUFFIX,miora.design
   - DOMAIN-SUFFIX,siamparagon.org
   - DOMAIN-SUFFIX,nobodys.uk
   - DOMAIN-SUFFIX,mysiteress.com
