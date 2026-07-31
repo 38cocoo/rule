@@ -1,4 +1,4 @@
 payload:
 # 代理补充列表
-- DOMAIN-SUFFIX,notebook.google.com
+  - DOMAIN-SUFFIX,notebook.google.com
 
