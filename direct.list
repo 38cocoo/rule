@@ -6,7 +6,7 @@ payload:
   - DOMAIN-SUFFIX,tagxx.vip
   - DOMAIN-SUFFIX,tagweb.vip
   - DOMAIN-SUFFIX,tagss13.pro
-  - DOMAIN-SUFFIX,opensubtitles.org
+  #- DOMAIN-SUFFIX,opensubtitles.org
 
  # 直连补充列表
   - DOMAIN-SUFFIX,miora.design
