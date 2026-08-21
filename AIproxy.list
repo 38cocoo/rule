@@ -1,6 +1,8 @@
 payload:
 # 代理补充列表
-##- DOMAIN-SUFFIX,notebook.google.com
+  - DOMAIN-SUFFIX,razer.com
+  - DOMAIN-SUFFIX,kaizen.nvidia.com
+  - DOMAIN-KEYWORD,razer
 ##- DOMAIN-SUFFIX,notebooklm.google.com
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
 ##- DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
