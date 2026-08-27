@@ -1,19 +1,18 @@
 # 直连补充列表
 payload:
  # 域名后缀匹配
-  - DOMAIN-SUFFIX,dian.ysbang.cn
-  - DOMAIN-SUFFIX,baidu.com
-  - DOMAIN-SUFFIX,tagxx.vip
-  - DOMAIN-SUFFIX,tagweb.vip
-  - DOMAIN-SUFFIX,tagss13.pro
-  #- DOMAIN-SUFFIX,opensubtitles.org
+  - 'dian.ysbang.cn'
+  - 'tagxx.vip'
+  - 'tagweb.vip'
+  - 'tagss13.pro'
+  #- 'opensubtitles.org'
 
  # 直连补充列表
-  - DOMAIN-SUFFIX,miora.design
-  - DOMAIN-SUFFIX,siamparagon.org
-  - DOMAIN-SUFFIX,nobodys.uk
-  - DOMAIN-SUFFIX,mysiteress.com
-  - DOMAIN-SUFFIX,temporary-subscription.work
+  #- 'miora.design'
+  - 'siamparagon.org'
+  - 'nobodys.uk'
+  - 'mysiteress.com'
+  - 'temporary-subscription.work'
  #
  #  SRC-IP-CIDR,192.168.5.110/32
  #- SRC-IP-CIDR,192.168.5.117/32
