@@ -1,51 +1,51 @@
 payload:
 # 代理补充列表
-- DOMAIN-SUFFIX,razer.com
-- DOMAIN-SUFFIX,kaizen.nvidia.com
-- DOMAIN-KEYWORD,razer
+  - DOMAIN-SUFFIX,razer.com
+  - DOMAIN-SUFFIX,kaizen.nvidia.com
+  - DOMAIN-KEYWORD,razer
 #大陆地区所有短视频
-- DOMAIN-KEYEORD,douyin
-- DOMAIN-SUFFIX,douyin.com
-- DOMAIN-SUFFIX,iesdouyin.com
-- DOMAIN-SUFFIX,amemv.com
-- DOMAIN-SUFFIX,ixigua.com
-- DOMAIN-SUFFIX,huoshan.com
-- DOMAIN-SUFFIX,douyincdn.com
-- DOMAIN-SUFFIX,douyinpic.com
-- DOMAIN-SUFFIX,douyinvod.com
-- DOMAIN-KEYEORD,kuaishou
-- DOMAIN-SUFFIX,kuaishou.com
-- DOMAIN-SUFFIX,gifshow.com
-- DOMAIN-SUFFIX,yximgs.com
-- DOMAIN-SUFFIX,ksapisrv.com
-- DOMAIN-KEYWORD,hongguo
-- DOMAIN-SUFFIX,hongguost.com
-- DOMAIN-SUFFIX,hongguosort.com
-- DOMAIN-SUFFIX,novelshort.com
-- DOMAIN-SUFFIX,hongguoqxs.com
-- DOMAIN-SUFFIX,hongguoxs.com
-- DOMAIN-SUFFIX,hongguoduanju.com
-- DOMAIN-SUFFIX,hgduanju.com
-- DOMAIN-KEYWORD,pipix
-- DOMAIN-SUFFIX,pipix.com
-- DOMAIN-SUFFIX,bipai.com
-- DOMAIN-KEYWORD,weishi
-- DOMAIN-SUFFIX,weishi.qq.com
-- DOMAIN-SUFFIX,finder.video.qq.com
-- DOMAIN-SUFFIX,channels.weixin.qq.com
-- DOMAIN-SUFFIX,haokan.baidu.com
-- DOMAIN-KEYEORD,xiaohongshu
-- DOMAIN-SUFFIX,xiaohongshu.com
-- DOMAIN-SUFFIX,xhslink.com
-- DOMAIN-KEYWORD,hemaduanju
-- DOMAIN-SUFFIX,hemaduanju.com
-- DOMAIN-SUFFIX,hemajuchang.com
-- DOMAIN-KEYWORD,jiuzhouduanju
-- DOMAIN-SUFFIX,jzduanju.com
-- DOMAIN-SUFFIX,jiuzhouduanju.com
-- DOMAIN-KEYWORD,zuiyou
-- DOMAIN-SUFFIX,zuiyou51.com
-- DOMAIN-SUFFIX,izuiyou.com
+  - DOMAIN-KEYEORD,douyin
+  - DOMAIN-SUFFIX,douyin.com
+  - DOMAIN-SUFFIX,iesdouyin.com
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,ixigua.com
+  - DOMAIN-SUFFIX,huoshan.com
+  - DOMAIN-SUFFIX,douyincdn.com
+  - DOMAIN-SUFFIX,douyinpic.com
+  - DOMAIN-SUFFIX,douyinvod.com
+  - DOMAIN-KEYEORD,kuaishou
+  - DOMAIN-SUFFIX,kuaishou.com
+  - DOMAIN-SUFFIX,gifshow.com
+  - DOMAIN-SUFFIX,yximgs.com
+  - DOMAIN-SUFFIX,ksapisrv.com
+  - DOMAIN-KEYWORD,hongguo
+  - DOMAIN-SUFFIX,hongguost.com
+  - DOMAIN-SUFFIX,hongguosort.com
+  - DOMAIN-SUFFIX,novelshort.com
+  - DOMAIN-SUFFIX,hongguoqxs.com
+  - DOMAIN-SUFFIX,hongguoxs.com
+  - DOMAIN-SUFFIX,hongguoduanju.com
+  - DOMAIN-SUFFIX,hgduanju.com
+  - DOMAIN-KEYWORD,pipix
+  - DOMAIN-SUFFIX,pipix.com
+  - DOMAIN-SUFFIX,bipai.com
+  - DOMAIN-KEYWORD,weishi
+  - DOMAIN-SUFFIX,weishi.qq.com
+  - DOMAIN-SUFFIX,finder.video.qq.com
+  - DOMAIN-SUFFIX,channels.weixin.qq.com
+  - DOMAIN-SUFFIX,haokan.baidu.com
+  - DOMAIN-KEYEORD,xiaohongshu
+  - DOMAIN-SUFFIX,xiaohongshu.com
+  - DOMAIN-SUFFIX,xhslink.com
+  - DOMAIN-KEYWORD,hemaduanju
+  - DOMAIN-SUFFIX,hemaduanju.com
+  - DOMAIN-SUFFIX,hemajuchang.com
+  - DOMAIN-KEYWORD,jiuzhouduanju
+  - DOMAIN-SUFFIX,jzduanju.com
+  - DOMAIN-SUFFIX,jiuzhouduanju.com
+  - DOMAIN-KEYWORD,zuiyou
+  - DOMAIN-SUFFIX,zuiyou51.com
+  - DOMAIN-SUFFIX,izuiyou.com
 ##- DOMAIN-SUFFIX,notebooklm.google.com
 ##- PROCESS-NAME,curl,DIRECT #匹配路由自身进程(curl直连)
 ##- DOMAIN-SUFFIX,google.com,Proxy #匹配域名后缀(交由Proxy代理服务器组)
